@@ -1,6 +1,6 @@
 import React from 'react';
-import './About.css';  // Import a separate CSS file for styling
-
+import './About.css'; 
+ 
 const About = () => {
   return (
     <div className="about-container">

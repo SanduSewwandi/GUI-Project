@@ -2,8 +2,10 @@ import React from 'react'
 import user_icon from'../../assets/user.jpg'
 import password_icon from'../../assets/password.jpg'
 
+
 const LogIn = () => {
   return (
+    <div className='containerback'>
     <div className='container2'>
          < div className='header'>
           <div className='text'>Log In </div>
@@ -25,6 +27,7 @@ const LogIn = () => {
                 
 
       
+    </div>
     </div>
     </div>
   )
