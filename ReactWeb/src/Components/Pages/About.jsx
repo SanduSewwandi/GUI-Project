@@ -17,16 +17,16 @@ const About = () => {
         </p>
       </section>
 
-     
+      <section>
         <h2>What We Offer</h2>
  
-        <div className='about-container-offer'>
-          <h3>Tutorial</h3>
-          Comprehensive tutorials on subjects like Math, Science, History, and more.</li>
+        <ul className='about-container-offer'>
+          
+          <li>Comprehensive tutorials on subjects like Math, Science, History, and more.</li>
           <li>Interactive learning tools and quizzes for instant feedback.</li>
           <li>Study guides and cheat sheets for efficient learning.</li>
-        </div>
-     
+        </ul>
+      </section>
 
       <section>
         <h2>Our Team</h2>
