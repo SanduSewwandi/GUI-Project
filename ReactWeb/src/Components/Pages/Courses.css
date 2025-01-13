@@ -1,0 +1,64 @@
+.coursescontainer {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 20px; 
+    padding: 20px;
+    justify-content: flex-start; 
+  }
+  
+  .coursesgrade {
+    flex: 0 0 calc(33.33% - 20px); 
+    box-sizing: border-box; 
+  }
+  
+  .coursesgrade {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    
+  }
+  
+  .coursesgrade h2 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+  }
+  
+  .subjects {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .subjects li {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .learn-btn, .exercise-btn {
+    padding: 5px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #9e830a;
+    color: white;
+  }
+  
+  .learn-btn {
+    background-color: #a5670a; 
+  }
+  
+  .exercise-btn {
+    background-color: #0a375c; 
+  }
+  
+  .learn-btn:hover, .exercise-btn:hover {
+    background-color: #ddb811;
+  }
+  .exercise-btn:hover {
+    background-color: #0b7dda; 
+  }
+  

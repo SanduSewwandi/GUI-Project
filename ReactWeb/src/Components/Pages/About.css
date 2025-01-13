@@ -1,0 +1,45 @@
+.about-container {
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    
+  }
+  .about-container-offer{
+    width:50px;
+    display:flex;
+    align-items:top;
+    background:#fff;
+    padding:15px 100px;
+    position:sticky;
+  }
+  
+  .about-container h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color:rgb(6, 6, 75)
+  }
+  
+  .about-container p {
+    font-size: 20px;
+    line-height: 1.6;
+    margin-bottom: 70px;
+  }
+  
+  .about-container section {
+    margin-bottom: 30px;
+  }
+  
+  .about-container h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+    color:rgb(6, 6, 75)
+  }
+  
+  .about-container ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    font-size: 1.1em;
+  }
+  
