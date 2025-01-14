@@ -1,4 +1,4 @@
-/* General Container Styling */
+
 .categorycontainer {
     padding: 20px;
     text-align: center;
@@ -14,7 +14,7 @@
     font-weight:600px;
   }
   
-  /* Subject Container */
+ 
   .subjects-container {
     display: flex;
     justify-content: center;
@@ -32,7 +32,7 @@
     margin-bottom: 10px;
   }
   
-  /* Styling List and Items */
+
   .subjects {
     list-style-type: none;
     padding: 0;

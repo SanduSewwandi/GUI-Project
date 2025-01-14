@@ -16,8 +16,7 @@
   .exercise-lists {
     display: flex;
     justify-content: center;
-    gap: 20px; /* Space between columns */
-  }
+    gap: 20px; }
   
   .exercise-list {
     background-color: #fff;
@@ -25,8 +24,8 @@
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     padding: 20px;
-    width: 250px; /* Adjust the width to fit content */
-    text-align: left; /* Align text to the left */
+    width: 250px;
+    text-align: left; 
     color:#061638;
   }
   
@@ -38,19 +37,19 @@
   }
   
   .exercise-list ul {
-    list-style: none; /* Remove bullets */
+    list-style: none; 
     padding: 0;
     margin: 0;
     display: flex;
-    flex-direction: column; /* Stack items vertically */
-    gap: 10px; /* Space between items */
+    flex-direction: column; 
+    gap: 10px; 
    
   }
   
   .exercise-list li {
     font-size: 16px;
     color: #555;
-    padding: 5px 0; /* Add space between items */
+    padding: 5px 0; 
     color:#1a1717;
   }
   
