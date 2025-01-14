@@ -7,8 +7,10 @@ const Learn = () => {
 
   return (
     <div className='Learncontainer'>
+       <div className='Learncontainer2'>
       <h1>Learn {subject} for Grade {grade}</h1>
       <p>Content about {subject} for Grade {grade} goes here.</p>
+    </div>
     </div>
   );
 };

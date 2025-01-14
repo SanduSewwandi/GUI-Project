@@ -2,6 +2,8 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import './Exercise.css';
 
+import pdf from '../../assets/Grade-11-Sinhala-Paper-2020-3rd-Term-Test-Southern-Province.pdf';
+
 const Exercise = () => {
   const { grade, subject } = useParams();
 
@@ -17,11 +19,11 @@ const Exercise = () => {
         <div className="exercise-list">
           <h2>Unit Papers</h2>
           <ul>
-            <li>Unit 01</li>
-            <li>Unit 02</li>
-            <li>Unit 03</li>
-            <li>Unit 04</li>
-            <li>Unit 05</li>
+            <li><a href={pdf} target="_blank" rel="noopener noreferrer">Unit 01</a></li>
+            <li><a href={pdf} target="_blank" rel="noopener noreferrer">Unit 02</a></li>
+            <li><a href={pdf} target="_blank" rel="noopener noreferrer">Unit 03</a></li>
+            <li><a href={pdf} target="_blank" rel="noopener noreferrer">Unit 04</a></li>
+            <li><a href={pdf} target="_blank" rel="noopener noreferrer">Unit 05</a></li>
           </ul>
         </div>
 
@@ -29,9 +31,9 @@ const Exercise = () => {
         <div className="exercise-list">
           <h2>Model Papers</h2>
           <ul>
-            <li>Ms A.B.C</li>
-            <li>Mr A.B.C</li>
-            <li>Mrs A.B.C</li>
+            <li><a href={pdf} target="_blank" rel="noopener noreferrer">Ms A.B.C</a></li>
+            <li><a href={pdf} target="_blank" rel="noopener noreferrer">Mr A.B.C </a></li>
+            <li><a href={pdf} target="_blank" rel="noopener noreferrer">Mrs A.B.C</a></li>
           </ul>
         </div>
 
@@ -40,8 +42,23 @@ const Exercise = () => {
           <h2>Term Test Papers</h2>
           <ul>
             <li>Western Province</li>
+              <ol>
+              <li><a href={pdf} target="_blank" rel="noopener noreferrer">First term</a></li>
+              <li><a href={pdf} target="_blank" rel="noopener noreferrer">Second term</a></li>
+              <li><a href={pdf} target="_blank" rel="noopener noreferrer">Third term</a></li>
+               </ol>
             <li>Southern Province</li>
+            <ol>
+              <li><a href={pdf} target="_blank" rel="noopener noreferrer">First term</a></li>
+              <li><a href={pdf} target="_blank" rel="noopener noreferrer">Second term</a></li>
+              <li><a href={pdf} target="_blank" rel="noopener noreferrer">Third term</a></li>
+               </ol>
             <li>Northwestern Province</li>
+            <ol>
+              <li><a href={pdf} target="_blank" rel="noopener noreferrer">First term</a></li>
+              <li><a href={pdf} target="_blank" rel="noopener noreferrer">Second term</a></li>
+              <li><a href={pdf} target="_blank" rel="noopener noreferrer">Third term</a></li>
+               </ol>
           </ul>
         </div>
       </div>
@@ -49,5 +66,5 @@ const Exercise = () => {
   );
 };
 
-export default Exercise;
+export default Exercise; 
 
