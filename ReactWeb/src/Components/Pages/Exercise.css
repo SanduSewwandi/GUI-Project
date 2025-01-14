@@ -1,0 +1,61 @@
+.Exercisecontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    min-height: 100vh;
+    background-color: #f9f9f9;
+  }
+  
+  .Exercisecontainer2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #030938;
+  }
+  
+  .exercise-lists {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Space between columns */
+  }
+  
+  .exercise-list {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+    width: 250px; /* Adjust the width to fit content */
+    text-align: left; /* Align text to the left */
+    color:#061638;
+  }
+  
+  .exercise-list h2 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #080e47;
+    text-align: center;
+  }
+  
+  .exercise-list ul {
+    list-style: none; /* Remove bullets */
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    gap: 10px; /* Space between items */
+   
+  }
+  
+  .exercise-list li {
+    font-size: 16px;
+    color: #555;
+    padding: 5px 0; /* Add space between items */
+    color:#1a1717;
+  }
+  
+  .exercise-list li:hover {
+    color: #000;
+    font-weight: bold;
+  }
+  

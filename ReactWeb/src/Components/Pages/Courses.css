@@ -43,16 +43,16 @@
     cursor: pointer;
     border: none;
     border-radius: 5px;
-    background-color: #9e830a;
+    background-color: #cf730a;
     color: white;
   }
   
   .learn-btn {
-    background-color: #a5670a; 
+    background-color: #c97e0f; 
   }
   
   .exercise-btn {
-    background-color: #0a375c; 
+    background-color: #071825; 
   }
   
   .learn-btn:hover, .exercise-btn:hover {
