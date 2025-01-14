@@ -11,7 +11,7 @@ const Categories = () => {
       <div className='subjects-container'>
         {/* Math Section */}
         <div className='subject-category'>
-          <h2>Math</h2>
+          <h2>Maths</h2>
           <ul className='subjects'>
             <li>Trigonometry</li>
             <li>Sets</li>
