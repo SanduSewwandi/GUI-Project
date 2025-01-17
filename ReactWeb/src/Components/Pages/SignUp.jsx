@@ -7,6 +7,7 @@ import password_icon from'../../assets/password.jpg'
 
 const SignUp = () => {
   return (
+    <div className='containerback'>
     <div className='container2'>
      < div className='header'>
       <div className='text'>Sign Up </div>
@@ -15,7 +16,7 @@ const SignUp = () => {
       <div className='inputs'>
       <div className="input">
         <img src={user_icon}  alt=""  />
-        <input type="text"  placeholder='Name'/>
+        < input type="text"  placeholder='Name'/>
       </div>
       <div className="input">
         <img src={email_icon}  alt="" />
@@ -31,6 +32,7 @@ const SignUp = () => {
         <div className="submit">Sign Up</div>
       </div>
       
+    </div>
     </div>
   )
 } 

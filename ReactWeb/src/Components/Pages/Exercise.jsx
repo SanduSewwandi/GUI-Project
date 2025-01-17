@@ -8,6 +8,7 @@ const Exercise = () => {
   const { grade, subject } = useParams();
 
   return (
+    <div className="Exercisebackcontainer">
     <div className="Exercisecontainer">
       <div className="Exercisecontainer2">
         <h1>Exercise for {subject} - Grade {grade}</h1>
@@ -62,6 +63,7 @@ const Exercise = () => {
           </ul>
         </div>
       </div>
+    </div>
     </div>
   );
 };

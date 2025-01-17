@@ -1,16 +1,34 @@
+
+.Exercisebackcontainer{
+  height: 200vh; /* Adjust this to fit your content */
+  background-image: url('../../assets/laptop-books-table-3d-render-illustration_1142-56966.jpg'); /* Path to the image */
+  background-size: cover; /* Ensure the image covers the entire area */
+  background-position: center; /* Center the image */
+  display: flex;
+  justify-content: flex-start; /* Align content horizontally at the start */
+  align-items:center; /* Align content vertically at the top */
+  flex-direction: column; /* Ensure content stacks vertically */
+  padding-top: 0; 
+}
+
 .Exercisecontainer {
-    display: flex;
+    display: flex ;
     flex-direction: column;
-    align-items: center;
+    align-items: top;
     padding: 20px;
     min-height: 100vh;
-    background-color: #f9f9f9;
+    background-color:transparent;
+     margin-top: 0; 
+
+    
   }
   
   .Exercisecontainer2 {
     text-align: center;
     margin-bottom: 20px;
-    color: #030938;
+    color: #01051b;
+ 
+   
   }
   
   .exercise-lists {

@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import './Courses.css';
 
 const Courses = () => {
+  
   const navigate = useNavigate();
 
   const grades = [
@@ -19,6 +20,7 @@ const Courses = () => {
   };
 
   return (
+    <div className="coursesbackcontainer">
     <div className="coursescontainer">
       {grades.map((gradeItem) => (
         <div className="coursesgrade" key={gradeItem.grade}>
@@ -44,6 +46,7 @@ const Courses = () => {
           </ul>
         </div>
       ))}
+    </div>
     </div>
   );
 };

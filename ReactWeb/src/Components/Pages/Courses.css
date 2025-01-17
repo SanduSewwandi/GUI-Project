@@ -3,8 +3,22 @@
     flex-wrap: wrap; 
     gap: 20px; 
     padding: 20px;
-    justify-content: flex-start; 
-  }
+    justify-content: flex-start;
+    height:100px; 
+   
+}
+.coursesbackcontainer{
+  height: 200vh; /* Full height of the viewport */
+  background-image: url('src/assets/front-view-desk-concept-with-copy-space_23-2148459496.jpg'); /* Path to the image */
+background-size: cover; /* Ensure the image covers the entire area */
+background-position: center; /* Center the image */
+display: flex;
+justify-content: top; /* Center content horizontally */
+align-items: top;
+
+}
+    
+  
   
   .coursesgrade {
     flex: 0 0 calc(33.33% - 20px); 

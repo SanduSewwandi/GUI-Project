@@ -1,3 +1,13 @@
+.containerback{
+    height: 180vh; /* Full height of the viewport */
+    background-image: url('src/assets/still-life-books-versus-technology_23-2150062916.jpg'); /* Path to the image */
+    background-size: cover; /* Ensure the image covers the entire area */
+    background-position: center; /* Center the image */
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+  }
+
 .container2{
     display :flex;
     flex-direction: column;
