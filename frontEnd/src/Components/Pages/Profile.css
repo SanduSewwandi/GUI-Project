@@ -1,0 +1,96 @@
+.profilecontainerback {
+  height: 180vh; 
+  background-image: url('src/assets/pexels-shkrabaanthony-6266984.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  display: flex;
+  justify-content: flex-start; 
+  align-items: flex-start; 
+  padding-top: 10px; 
+}
+
+.profile-container {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto; 
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #29252e;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 100px; 
+}
+ 
+  
+  .profile-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile-avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+    margin-bottom: 10px;
+    object-fit: cover;
+  }
+  
+  .profile-header h1 {
+    font-size: 24px;
+    color: #111111;
+  }
+  
+  .profile-content {
+    margin-top: 20px;
+  }
+  
+  .profile-section {
+    margin-bottom: 20px;
+  }
+  
+  .profile-section h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #dad3d3;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+  }
+  
+  .profile-section p {
+    font-size: 16px;
+    color: #9e9999;
+  }
+  .profile-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .edit-profile-button,
+  .logout-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    color: #fff;
+    
+  }
+  
+  .edit-profile-button {
+    background-color: #007bff;
+  }
+  
+  .logout-button {
+    background-color: #a3560f;
+  }
+  
+  .edit-profile-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .logout-button:hover {
+    background-color: #c5c823;
+  }
+  

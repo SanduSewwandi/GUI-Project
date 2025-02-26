@@ -1,0 +1,28 @@
+.pastpapers-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .subject-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px auto;
+    width: 300px; 
+    text-align: left;
+    display: flex;
+    flex-direction: column; 
+    gap: 10px; 
+  }
+  
+  .subject-list li {
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background: #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  
+  
