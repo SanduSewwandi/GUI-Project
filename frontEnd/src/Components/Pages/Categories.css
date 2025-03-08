@@ -14,6 +14,19 @@
   font-size: 30px;
   gap: 50px;
 }
+.categorybackcontainer{
+  height: 320vh; 
+  background-image: url('src/assets/janko-ferlic-sfL_QOnmy00-unsplash (1).jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  display: flex;
+  justify-content: flex-start; 
+  align-items:center; 
+  flex-direction: column; 
+  padding-top: 0; 
+  width:100%;
+}
+
 
 /* List Container - Placed Below the Background */
 .list-container {
@@ -34,7 +47,7 @@
   margin-top: 20px;
   width: 50%;
   align-items: center;
-  margin-left: 250px;
+  margin-left: 20px;
   
 }
 
@@ -56,10 +69,10 @@
 
 /* Image for Each Category */
 .category-image {
-  width: 400px; 
-  height: auto;
+  width: 300px; 
+  height: 300px;
   border-radius: 8px;
-  margin-left: 250px; 
+  margin-left: 25px; 
 }
 
 .subject-category h2 {

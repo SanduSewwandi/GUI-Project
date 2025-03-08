@@ -1,6 +1,6 @@
 .profilecontainerback {
   height: 180vh; 
-  background-image: url('src/assets/pexels-shkrabaanthony-6266984.jpg'); 
+  background-image:  linear-gradient(rgba(98, 98, 105, 0.7),rgba(4, 1, 37, 0.7)), url('src/assets/pexels-shkrabaanthony-6266984.jpg'); 
   background-size: cover; 
   background-position: center; 
   display: flex;

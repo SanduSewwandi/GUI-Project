@@ -11,6 +11,7 @@ const Categories = () => {
   return (
     <div>
       {/* Background Section */}
+      <div className='categorybackcontainer'>
       <div className="categorycontainer">
         <h1>Explore Our Categories</h1>
         <p>Choose from a variety of subjects.</p>
@@ -62,6 +63,7 @@ const Categories = () => {
           <img src={image6} alt="Past Papers Category" className="category-image" />
         </div>
       </div>
+    </div>
     </div>
   );
 };

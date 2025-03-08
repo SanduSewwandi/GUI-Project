@@ -1,6 +1,6 @@
 .containerback{
     height: 180vh;
-    background-image: url('src/assets/pexels-mikhail-nilov-7583935.jpg'); 
+    background-image: linear-gradient(rgba(113, 113, 119, 0.7),rgba(4, 1, 37, 0.7)), url('src/assets/pexels-mikhail-nilov-7583935.jpg'); 
     background-size: cover; 
     background-position: center; 
     display: flex;
@@ -75,7 +75,7 @@
     font-size:12px
 }
 .forgot-password span{
-    color: #4c4c4c;
+    color: #c9c6c6;
     cursor:pointer
 }
 .submit-container{

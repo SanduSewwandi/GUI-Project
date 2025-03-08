@@ -35,67 +35,67 @@ const Learn = () => {
        <div className="image-grid2">
                 <div className="image-item3">
                   <img src={image10} alt="Education" />
-                  <p className="image-desc1">Lesson 01</p>
+                  <p className="image-desc1"><a href='Lesson1' >Lesson 01</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image11} alt="Practice" />
-                  <p className="image-desc1">Lesson 02</p>
+                  <p className="image-desc1"><a href='Lesson2'>Lesson 02</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image12} alt="Achievement" />
-                  <p className="image-desc1">Lesson 03</p>
+                  <p className="image-desc1"><a href='Lesson3'>Lesson 03</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image13} alt="Success" />
-                  <p className="image-desc1">Lesson 04</p>
+                  <p className="image-desc1"><a href='Lesson4'>Lesson 04</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image14} alt="Education" />
-                  <p className="image-desc1">Lesson 05</p>
+                  <p className="image-desc1"><a href='Lesson5'>Lesson 05</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image15} alt="Practice" />
-                  <p className="image-desc1">Lesson 06</p>
+                  <p className="image-desc1"><a href='Lesson6'>Lesson 06</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image16} alt="Achievement" />
-                  <p className="image-desc1">Lesson 07</p>
+                  <p className="image-desc1"><a href='Lesson7'>Lesson 07</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image17} alt="Success" />
-                  <p className="image-desc1">Lesson 08</p>
+                  <p className="image-desc1"><a href='Lesson8'>Lesson 08</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image18} alt="Education" />
-                  <p className="image-desc1">Lesson 09</p>
+                  <p className="image-desc1"><a href='Lesson9'>Lesson 09</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image19} alt="Practice" />
-                  <p className="image-desc1">Lesson 10</p>
+                  <p className="image-desc1"><a href='Lesson10'>Lesson 10</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image20} alt="Achievement" />
-                  <p className="image-desc1">Lesson 11</p>
+                  <p className="image-desc1"><a href='Lesson11'>Lesson 11</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image21} alt="Success" />
-                  <p className="image-desc1">Lesson 12</p>
+                  <p className="image-desc1"><a href='Lesson12'>Lesson 12</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image22} alt="Education" />
-                  <p className="image-desc1">Lesson 13</p>
+                  <p className="image-desc1"><a href='Lesson13'>Lesson 13</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image23} alt="Practice" />
-                  <p className="image-desc1">Lesson 14</p>
+                  <p className="image-desc1"><a href='Lesson14'>Lesson 14</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image24} alt="Achievement" />
-                  <p className="image-desc1">Lesson 15</p>
+                  <p className="image-desc1"><a href='Lesson15'>Lesson 15</a></p>
                 </div>
                 <div className="image-item3">
                   <img src={image25} alt="Success" />
-                  <p className="image-desc1">Lesson 16</p>
+                  <p className="image-desc1"><a href='Lesson16'>Lesson 16</a></p>
                 </div>
 
               </div>

@@ -1,0 +1,80 @@
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\Desktop2.exe
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\Desktop2.deps.json
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\Desktop2.runtimeconfig.json
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\Desktop2.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\Desktop2.pdb
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.Form1.resources
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.Properties.Resources.resources
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.csproj.GenerateResource.cache
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.AssemblyInfoInputs.cache
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.AssemblyInfo.cs
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.csproj.CoreCompileInputs.cache
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\refint\Desktop2.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.pdb
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.genruntimeconfig.cache
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\ref\Desktop2.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.Dashbord.resources
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.csproj.AssemblyReference.cache
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.csproj.Up2Date
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.Videos.resources
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.Student.resources
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.Tute.resources
+C:\Users\Saduni\source\repos\Desktop2\Desktop2\obj\Debug\net8.0-windows\Desktop2.Menu.resources
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\Desktop2.exe
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\Desktop2.deps.json
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\Desktop2.runtimeconfig.json
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\Desktop2.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\Desktop2.pdb
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\System.Text.Json.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Desktop Application\Desktop2\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.csproj.AssemblyReference.cache
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.Dashbord.resources
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.Form1.resources
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.Menu.resources
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.Properties.Resources.resources
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.Student.resources
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.Tute.resources
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.Videos.resources
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.csproj.GenerateResource.cache
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.AssemblyInfoInputs.cache
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.AssemblyInfo.cs
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.csproj.CoreCompileInputs.cache
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.csproj.Up2Date
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.dll
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\refint\Desktop2.dll
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.pdb
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\Desktop2.genruntimeconfig.cache
+E:\Desktop Application\Desktop2\obj\Debug\net8.0-windows\ref\Desktop2.dll

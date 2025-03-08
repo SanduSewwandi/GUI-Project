@@ -1,18 +1,42 @@
-import express from 'express';
+import express from "express";
+import dotenv from "dotenv";
+import sequelize from "./config/database.js";
+import userRoutes from "./routes/userRoutes.js";
+import pdfRoutes from "./routes/pdfRoutes.js";
+import cors from "cors";
+
+// Load environment variables
+dotenv.config();
 
 const app = express();
 
-app.get('/about', (req,res) =>{
-    res.send('About Us');
-})
+// Enable CORS for the frontend
+app.use(
+  cors({
+    origin: "http://localhost:5173", // Change this if using a different frontend address
+    methods: ["GET", "POST", "PUT", "DELETE"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+  })
+);
 
-app.get('/', (req,res) =>{
-    res.send('Hello World');
-})
+// Middleware to parse incoming JSON requests
+app.use(express.json());
+
+// Use routes
+app.use("/users", userRoutes);
+app.use("/pdfs", pdfRoutes);
 
 
 
-app.listen(5005, ()=>{
-    console.log('Server is running on port 5005');
-
-})
+// Start Server
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, async () => {
+  try {
+    await sequelize.authenticate();
+    console.log("Database connected!");
+    await sequelize.sync({ force: false });
+  } catch (error) {
+    console.error("Unable to connect to database:", error);
+  }
+  console.log(`Server running on http://localhost:${PORT}`);
+});
