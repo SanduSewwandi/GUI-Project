@@ -62,7 +62,7 @@ const AdminPage = () => {
       <AdminNavbar />
       <div className="pdf-header">
         <div className="filter-buttons">
-          {["All", "Grade 6", "Grade 7", "Grade 8"].map((category) => (
+          {["All", "Grade 6", "Grade 7", "Grade 8" ,  "Grade 9" , "Grade 10" , "Grade 11"  ].map((category) => (
             <button key={category} onClick={() => setFilter(category)} className="filter-button">
               {category}
             </button>
@@ -113,6 +113,9 @@ const AdminPage = () => {
               <option value="Grade 6">Grade 6</option>
               <option value="Grade 7">Grade 7</option>
               <option value="Grade 8">Grade 8</option>
+              <option value="Grade 9">Grade 9</option>
+              <option value="Grade 10">Grade 10</option>
+              <option value="Grade 11">Grade 11</option>
             </select>
             <label>Description:</label>
             <textarea

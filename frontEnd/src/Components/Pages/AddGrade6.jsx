@@ -46,7 +46,7 @@ const AddGrade6 = () => {
   return (
     <div className="form-container">
       <AdminNavbar /> {/* AdminNavbar Component */}
-      <h2 style={{ marginTop: 100 }}>Add Grade6</h2>
+      <h2 style={{ marginTop: 100 }}>Add PDF</h2>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
           <label htmlFor="name">Name</label>
@@ -71,6 +71,9 @@ const AddGrade6 = () => {
             <option value="Grade 6">Grade 6</option>
             <option value="Grade 7">Grade 7</option>
             <option value="Grade 8">Grade 8</option>
+            <option value="Grade 9">Grade 9</option>
+            <option value="Grade 10">Grade 10</option>
+            <option value="Grade 11">Grade 11</option>
           </select>
         </div>
 

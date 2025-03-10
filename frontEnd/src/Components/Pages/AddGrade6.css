@@ -38,17 +38,18 @@
   }
   
   .submit-btn {
-    width: 100%;
+    width: 40%;
     padding: 10px;
     font-size: 16px;
-    background-color: #4CAF50;
+    background-color: #07071b;
     color: white;
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    margin-left: 170px;
   }
   
   .submit-btn:hover {
-    background-color: #45a049;
+    background-color: #0e0727;
   }
   
